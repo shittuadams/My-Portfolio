@@ -1,4 +1,4 @@
-<h1 align="center">Adams Shittu's Portfolio</h1>
+<h1 align="center">Adams Shittu</h1>
 <p align="center">My most recent projects are placed at the top</p>
 
 <ol>
