@@ -7,7 +7,7 @@
   <li>
     <h3>Dashboard of Covid-19 Dataset Using Tableau</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/Covid-19-Dashboard">here</a>.</p>
-    <img src="images/covid-19-dashboard.png" width="600">  
+    <img src="images/covid-19-dashboard.png" width="800" height="600">  
   </li> 
   
   <li>
