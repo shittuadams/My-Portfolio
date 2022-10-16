@@ -5,7 +5,7 @@
   
   <li>
     <h2>Dashboard of Covid-19 Dataset Using Tableau</h2>
-    <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/WallmartDataAnalysis">here</a>.</p>
+    <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/Covid-19-Dashboard">here</a>.</p>
     <img src="images/covid-19-dashboard.png">  
   </li> 
   
