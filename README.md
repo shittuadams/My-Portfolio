@@ -3,6 +3,11 @@
 
 <ol>
   
+  <li>
+    <h2>Dashboard of Covid-19 Dataset Using Tableau</h2>
+    <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/WallmartDataAnalysis">here</a>.</p>
+    <img src="images/covid-19-dashboard.png">  
+  </li> 
   
   <li>
     <h2>Data Visualization with Wallmart's Retail Dataset Using Tableau</h2>
