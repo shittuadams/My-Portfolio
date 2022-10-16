@@ -1,5 +1,5 @@
 <h1 align="center">Adams Shittu</h1>
-<h2>Data Analysis Projects</h2>
+<h2 align="center">Data Analysis Projects</h2>
 <p align="center">My most recent projects are placed at the top</p>
 
 <ol>
