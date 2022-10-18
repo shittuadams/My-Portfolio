@@ -5,6 +5,12 @@
 <ol>
   
   <li>
+    <h3>Global Superstore Perfomance Dashboard Using Tableau</h3>
+    <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/globalPerformance">here</a>.</p>
+    <img src="images/global-performance.png">  
+  </li>
+  
+  <li>
     <h3>Dashboard of Covid-19 Dataset Using Tableau</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/Covid-19-Dashboard">here</a>.</p>
     <img src="images/covid-19-dashboard.png">  
