@@ -9,7 +9,7 @@
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/AirBnB-Project">here</a>.</p>
     <img src="images/airbnb-dashboard.png">  
   </li>
-  
+  <hr/>
   <li>
     <h3>Global Superstore Perfomance Dashboard Using Tableau</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/globalPerformance">here</a>.</p>
