@@ -1,6 +1,6 @@
 <h1 align="center">Adams Shittu</h1>
 
-<p align="center">My most recent projects are placed at the top </p>
+<p align="center">My most recent projects are placed at the top. Click <a href="#analytics">here</a> to view my data analysis projects. </p>
 
 <h2 align="center"> Frontend Web Development Projects </h2>
 
@@ -27,7 +27,7 @@
 </ol>
 <hr/><hr/>
 
-<h2 align="center">Data Analysis Projects</h2>
+<h2 id="analytics" align="center">Data Analysis Projects</h2>
 
 <ol>
 
