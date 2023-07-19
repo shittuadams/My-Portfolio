@@ -7,9 +7,21 @@
 <ol>
 
   <li>
-    <h3>Airbnb Project</h3>
-    <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/AirBnB-Project">here</a>.</p>
-    <img src="images/airbnb-dashboard.png">  
+    <h3>Simple Calculator Project</h3>
+    <p><span>For more details on this project click </span><a target="_blank" href="https://codepen.io/Shadams/pen/NWLBjGP">here</a>.</p>
+    <img src="images/simple-calculator.png">  
+  </li>
+
+  <li>
+    <h3>Colour Flipper Project</h3>
+    <p><span>For more details on this project click </span><a target="_blank" href="https://codepen.io/Shadams/pen/eYLyEXx">here</a>.</p>
+    <img src="images/colour-flipper.png">  
+  </li>
+
+  <li>
+    <h3>Markdown Previewer Project</h3>
+    <p><span>For more details on this project click </span><a target="_blank" href="https://codepen.io/Shadams/pen/pozwbwg">here</a>.</p>
+    <img src="images/markdown-previewer.png">  
   </li>
 
 </ol>
