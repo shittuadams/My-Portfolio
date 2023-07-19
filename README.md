@@ -30,6 +30,24 @@
     <img src="images/drum-machine.png">  
   </li>
 
+  <li>
+    <h3>Random Quote Machine Project</h3>
+    <p><span>For more details on this project click </span><a target="_blank" href="https://codepen.io/Shadams/pen/bGbezxq">here</a>.</p>
+    <img src="images/random-quote.png">  
+  </li>
+
+  <li>
+    <h3>Armstrong of Three Digit Checker Project</h3>
+    <p><span>For more details on this project click </span><a target="_blank" href="https://codepen.io/Shadams/pen/OwKzOJ">here</a>.</p>
+    <img src="images/armstrong.png">  
+  </li>
+
+  <li>
+    <h3>Technical Documentation Page Project</h3>
+    <p><span>For more details on this project click </span><a target="_blank" href="https://codepen.io/Shadams/pen/gKmJpp">here</a>.</p>
+    <img src="images/technical-documentation.png">  
+  </li>
+
 </ol>
 <hr/><hr/>
 
