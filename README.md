@@ -24,6 +24,12 @@
     <img src="images/markdown-previewer.png">  
   </li>
 
+  <li>
+    <h3>Drum Machine Project</h3>
+    <p><span>For more details on this project click </span><a target="_blank" href="https://codepen.io/Shadams/pen/BaBmzxV">here</a>.</p>
+    <img src="images/drum-machine.png">  
+  </li>
+
 </ol>
 <hr/><hr/>
 
