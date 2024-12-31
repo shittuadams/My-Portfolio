@@ -1,11 +1,14 @@
 <center id="top" style="margin-top: 20px;">
   <img src="images/profile-image.png" alt="Adams Shittu's Profile Image" width="150" height="150" style="border-radius:50%; border: 2px solid #007BFF;">
 </center>
-<h1 align="center" style="font-family: Arial, sans-serif; color: #007BFF;">Adams Shittu</h1>
+<h1 align="center" style="font-family: Arial, sans-serif; color: #007BFF;">I'm Adams Shittu</h1>
 
 <p align="center" style="font-family: Arial, sans-serif; color: #333; font-size: 16px;">
-  My most recent projects are placed at the top. 
-  <em>Check out my 
+  An educator with a knack for simplifying seemingly complex topics.
+</p>
+
+<p align="center" style="font-family: Arial, sans-serif; color: #333; font-size: 16px;">
+  <em> 
     <strong><a href="#frontend" style="color: #007BFF; text-decoration: none;">frontend web development projects</a></strong> 
     and 
     <strong><a href="#analytics" style="color: #007BFF; text-decoration: none;">data analysis projects</a></strong>.
