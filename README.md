@@ -25,16 +25,17 @@
   <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3 style="color: #333;">Blog Project</h3>
     <p>Technologies Used: <strong>Python, Django, HTML, CSS, Bootstrap, SQLite</strong></p>
-    <p>
-      <span>Check out the </span> 
-      <strong><a target="_blank" href="https://github.com/shittuadams/my-first-blog" style="color: #007BFF; text-decoration: none;">code</a></strong> 
-      <span> and the </span>
-      <strong><a target="_blank" href="https://shittu.pythonanywhere.com/" style="color: #007BFF; text-decoration: none;">live demo</a></strong>
-      <span> of the project.</span>
-    </p>
-    <center>
-      <img src="images/skalearn_blog.jpg" alt="Blog Project Screenshot" style="width: 90%; max-width: 500px; margin: 10px auto; border-radius: 5px;">
-    </center>
+    
+    <div style="margin-top: 15px; text-align: center;">
+      <center>
+        <img src="images/skalearn_blog.jpg" alt="Blog Project Screenshot" style="width: 90%; max-width: 500px; margin: 10px auto; border-radius: 5px;">
+      </center>
+      <div style="display: flex; justify-content: space-between; margin-top: 20px; max-width: 500px; margin-left: auto; margin-right: auto;">
+        <a href="https://github.com/shittuadams/my-first-blog" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #007BFF; color: white; border-radius: 5px; font-weight: bold; text-align: center;">View Code</a>
+        <a href="https://shittu.pythonanywhere.com/" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
+      </div>
+    </div>
+
   </li>
   
 </ol>
