@@ -12,6 +12,8 @@
   </em>
 </p>
 
+<hr/>
+
 <h2 align="center" style="font-family: Arial, sans-serif; background-color: #f0f0f0; padding: 10px; border-radius: 5px; color: #007BFF;">
   Backend Web Development Projects
 </h2>
