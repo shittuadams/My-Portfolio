@@ -22,7 +22,7 @@
 </h2>
 <ol style="font-family: Arial, sans-serif; color: #333; line-height: 1.6;">
 
-  <li>
+  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3 style="color: #333;">Blog Project</h3>
     <p>Technologies Used: <strong>Python, Django, HTML, CSS, Bootstrap, SQLite</strong></p>
     <p>
