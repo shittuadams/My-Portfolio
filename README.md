@@ -8,7 +8,7 @@
   <li>
     <h3>Blog Project</h3>
     <p>Technologies Used: <strong>Python, Django, HTML, CSS, Bootstrap, SQlite</strong></p>
-    <p><span>Check out the</span> <a target="_blank" href="https://github.com/shittuadams/my-first-blog">code</a> and the <a target="_blank" href="https://shittu.pythonanywhere.com/">live demo</a> of the project. </span></p>
+    <p><span>Check out the</span> <a target="_blank" href="https://github.com/shittuadams/my-first-blog">code</a> and the <a target="_blank" href="https://shittu.pythonanywhere.com/">live demo</a> of the project.</p>
     <img src="images/skalearn_blog.jpg">  
   </li>
   
