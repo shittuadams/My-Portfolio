@@ -1,8 +1,22 @@
 <h1 align="center">Adams Shittu</h1>
 
-<p align="center">My most recent projects are placed at the top. <em>Click <strong><a href="#analytics">here</a></strong> to view my <ins>data analysis projects</ins></em>. </p>
+<p align="center">My most recent projects are placed at the top. <em>Check out my <strong><a href="#frontend">frontend wed development Projects</a></strong> and <strong><a href="#analytics">data analysis projects</a></strong></em>. </p>
 
-<h2 align="center"> Frontend Web Development Projects </h2>
+<h2 align="center"> Backend Web Development Projects </h2>
+<ol>
+
+  <li>
+    <h3>Blog Project</h3>
+    <p>Technologies Used: <strong>Python, Django, HTML, CSS, Bootstrap, SQlite</strong></p>
+    <p><span>Check out the</span> <a target="_blank" href="https://github.com/shittuadams/my-first-blog">code</a> and the <a target="_blank" href="https://shittu.pythonanywhere.com/">live demo</a> of the project. </span></p>
+    <img src="images/skalearn_blog.jpg">  
+  </li>
+  
+</ol>
+
+<hr/><hr/>
+
+<h2 id="frontend" align="center"> Frontend Web Development Projects </h2>
 
 <ol>
 
