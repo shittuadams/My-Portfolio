@@ -1,5 +1,5 @@
 <center>
-  <img src="images/profile-image.png" alt="Adams Shittu's Profile Image.jpg">
+  <img src="images/profile-image.png" alt="Adams Shittu's Profile Image.jpg" width="150" height="150" style="border-radius:50%">
 </center>
 <h1 align="center">Adams Shittu</h1>
 
