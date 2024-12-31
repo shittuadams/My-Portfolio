@@ -9,9 +9,9 @@
 
 <p align="center" style="font-family: Arial, sans-serif; color: #333; font-size: 16px;">
   <em> 
-    <strong><a href="#frontend" style="color: #007BFF; text-decoration: none;">frontend web development projects</a></strong> 
-    and 
-    <strong><a href="#analytics" style="color: #007BFF; text-decoration: none;">data analysis projects</a></strong>.
+    👉 <strong><a href="#frontend" style="color: #007BFF; text-decoration: none;">frontend web development projects</a></strong> 
+    <br>
+    👉 <strong><a href="#analytics" style="color: #007BFF; text-decoration: none;">data analysis projects</a></strong>.
   </em>
 </p>
 
