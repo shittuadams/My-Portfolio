@@ -39,7 +39,7 @@
       <span>Check out the </span> 
       <strong><a target="_blank" href="https://codepen.io/Shadams/pen/NWLBjGP">code</a></strong> 
       <span> and the </span>
-      <strong><a target="_blank" href="https://codepen.io/Shadams/full/NWLBjGP">live demo</a></strong>
+      <strong><a target="_blank" href="https://codepen.io/Shadams/full/NWLBjGP">live demo</a></strong> 
       <span> of the project.</span>
     </p>
     <center>
