@@ -1,3 +1,6 @@
+<center>
+  <img src="images/profile-image.png" alt="Adams Shittu's Profile Image.jpg">
+</center>
 <h1 align="center">Adams Shittu</h1>
 
 <p align="center">My most recent projects are placed at the top. <em>Check out my <strong><a href="#frontend">frontend wed development Projects</a></strong> and <strong><a href="#analytics">data analysis projects</a></strong></em>. </p>
@@ -18,7 +21,7 @@
   
 </ol>
 
-<hr/><hr/>
+<hr/>
 
 <h2 id="frontend" align="center"> Frontend Web Development Projects </h2>
 
@@ -67,7 +70,10 @@
   </li>
 
 </ol>
-<hr/><hr/>
+
+
+<hr/>
+
 
 <h2 id="analytics" align="center">Data Analysis Projects</h2>
 
