@@ -1,4 +1,4 @@
-<center>
+<center id="top">
   <img src="images/profile-image.png" alt="Adams Shittu's Profile Image.jpg" width="150" height="150" style="border-radius:50%">
 </center>
 <h1 align="center">Adams Shittu</h1>
@@ -33,7 +33,15 @@
 
   <li>
     <h3>Simple Calculator Project</h3>
-    <p><span>For more details on this project click </span><a target="_blank" href="https://codepen.io/Shadams/pen/NWLBjGP">here</a>.</p>
+
+    <p>Technologies Used: <strong>HTML, CSS, JavaScript</strong></p>
+    <p>
+      <span>Check out the </span> 
+      <strong><a target="_blank" href="https://codepen.io/Shadams/pen/NWLBjGP">code</a></strong> 
+      <span> and the </span>
+      <strong><a target="_blank" href="https://codepen.io/Shadams/full/NWLBjGP">live demo</a></strong>
+      <span> of the project.</span>
+    </p>
     <center>
       <img src="images/simple-calculator.png">
     </center>
@@ -145,3 +153,10 @@
   
 </ol>
 
+
+
+<div style="text-align: right; position: fixed; bottom: 20px; width: 100%;">
+  <a href="#top" style="padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">
+    Go to Top
+  </a>
+</div>
