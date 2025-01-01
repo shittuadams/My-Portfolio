@@ -173,9 +173,16 @@
   <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Airbnb Project</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/AirBnB-Project">here</a>.</p>
-    <center>
-      <img src="images/airbnb-dashboard.png"> 
-    </center>
+    <p>Technologies Used: <strong>Tabluea</strong></p>
+    <div style="margin-top: 15px; text-align: center;">
+      <center>
+        <img src="images/airbnb-dashboard.png" alt="Blog Project Screenshot" style="width: 90%; max-width: 500px; margin: 10px auto; border-radius: 5px;">
+      </center>
+      <div style="display: flex; justify-content: space-between; margin-top: 20px; max-width: 500px; margin-left: auto; margin-right: auto;">
+        <a href="https://drive.google.com/file/d/1vNgmbtp5oUUfSMPuRnOA1iAr4mB4vBrN/view" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #007BFF; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Data Set</a>
+        <a href="#" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
+      </div>
+    </div>  
   </div>
  
   
