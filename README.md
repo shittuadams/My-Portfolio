@@ -20,9 +20,8 @@
 <h2 align="center" style="font-family: Arial, sans-serif; background-color: #f0f0f0; padding: 10px; border-radius: 5px; color: #007BFF;">
   Backend Web Development Projects
 </h2>
-<ol style="font-family: Arial, sans-serif; color: #333; line-height: 1.6;">
 
-  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+  <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3 style="color: #333;">Blog Project</h3>
     <p>Technologies Used: <strong>Python, Django, HTML, CSS, Bootstrap, SQLite</strong></p>
     
@@ -35,9 +34,7 @@
         <a href="https://shittu.pythonanywhere.com/" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
       </div>
     </div>
-  </li>
-  
-</ol>
+  </div>
 
 <hr/>
 
@@ -45,10 +42,7 @@
   Frontend Web Development Projects
 </h2>
 
-
-<ol>
-
-  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+  <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Simple Calculator Project</h3>
 
     <p>Technologies Used: <strong>HTML, CSS, JavaScript</strong></p>
@@ -63,9 +57,9 @@
       </div>
     </div>
 
-  </li>
+  </div>
 
-  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+  <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Colour Flipper Project</h3>
 
     <p>Technologies Used: <strong>HTML, CSS, JavaScript</strong></p>
@@ -79,11 +73,10 @@
         <a href="https://codepen.io/Shadams/full/eYLyEXx" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
       </div>
     </div>    
+    
+  </div>
 
-
-  </li>
-
-  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+  <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Markdown Previewer Project</h3>
     <p>Technologies Used: <strong>HTML, CSS, React</strong></p>
     <div style="margin-top: 15px; text-align: center;">
@@ -96,9 +89,9 @@
       </div>
     </div>    
 
-  </li >
+  <div >
 
-  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+  <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Drum Machine Project</h3>
 
   <p>Technologies Used: <strong>HTML, CSS, React</strong></p>
@@ -112,9 +105,9 @@
       </div>
     </div>    
 
-  </li>
+  </div>
 
-  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+  <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Random Quote Machine Project</h3>
     <p>Technologies Used: <strong>HTML, CSS, React</strong></p>
     <div style="margin-top: 15px; text-align: center;">
@@ -127,9 +120,9 @@
       </div>
     </div>    
 
-  </li>
+  </div>
 
-  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+  <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Armstrong of Three Digit Checker Project</h3>
     <p>Technologies Used: <strong>HTML, CSS, JavaScript</strong></p>
     <div style="margin-top: 15px; text-align: center;">
@@ -141,10 +134,10 @@
         <a href="https://codepen.io/Shadams/full/OwKzOJ" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
       </div>
     </div>    
+  </div>
 
-  </li>
 
-  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+  <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Technical Documentation Page Project</h3>
 
     <p>Technologies Used: <strong>HTML, CSS</strong></p>
@@ -157,11 +150,10 @@
         <a href="https://codepen.io/Shadams/full/gKmJpp" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
       </div>
     </div>  
+    
+  </div>
 
 
-  </li>
-
-</ol>
 
 
 
@@ -173,53 +165,49 @@
 </h2>
 
 
-<ol>
-
-  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+  <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Airbnb Project</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/AirBnB-Project">here</a>.</p>
     <center>
       <img src="images/airbnb-dashboard.png"> 
     </center>
-  </li>
+  </div>
  
   
-  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+  <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Global Superstore Perfomance Dashboard Using Tableau</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/globalPerformance">here</a>.</p>
     <center>
       <img src="images/global-performance.png">  
     </center>
-  </li>
+  </div>
 
   
-  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+  <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Dashboard of Covid-19 Dataset Using Tableau</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/Covid-19-Dashboard">here</a>.</p>
     <center>
       <img src="images/covid-19-dashboard.png">  
     </center>
-  </li> 
+  </div> 
   
   
-  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+  <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Data Visualization of Wallmart's Retail Dataset Using Tableau</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/WallmartDataAnalysis">here</a>.</p>
     <center>
       <img src="images/Walmart-Image.png">  
     </center>
-  </li> 
+  </div> 
   
   
-  <li style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
+  <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Excel Data Analysis Project using the Bike Buyers Dataset</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/excel-data-analysis-project-on-bike-buyers-dataset">here</a>.</p>
     <center>
       <img src="images/bike-buyers-dashboard-image.png">  
     </center>
-  </li > 
- 
-</ol>
+  </div > 
 
 
 <div style="text-align: right; position: fixed; bottom: 20px; width: 100%;">
