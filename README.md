@@ -36,17 +36,20 @@
     </div>
   </div>
 
+
+
 <hr/>
+
+
 
 <h2 id="frontend" align="center" style="font-family: Arial, sans-serif; background-color: #f0f0f0; padding: 10px; border-radius: 5px; color: #007BFF;">
   Frontend Web Development Projects
 </h2>
 
+
   <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Simple Calculator Project</h3>
-
     <p>Technologies Used: <strong>HTML, CSS, JavaScript</strong></p>
-   
     <div style="margin-top: 15px; text-align: center;">
       <center>
         <img src="images/simple-calculator.png" alt="Blog Project Screenshot" style="width: 90%; max-width: 500px; margin: 10px auto; border-radius: 5px;">
@@ -56,14 +59,13 @@
         <a href="https://codepen.io/Shadams/full/NWLBjGP" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
       </div>
     </div>
-
   </div>
+
+
 
   <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Colour Flipper Project</h3>
-
     <p>Technologies Used: <strong>HTML, CSS, JavaScript</strong></p>
-   
     <div style="margin-top: 15px; text-align: center;">
       <center>
         <img src="images/colour-flipper.png" alt="Blog Project Screenshot" style="width: 90%; max-width: 500px; margin: 10px auto; border-radius: 5px;">
@@ -73,8 +75,9 @@
         <a href="https://codepen.io/Shadams/full/eYLyEXx" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
       </div>
     </div>    
-    
   </div>
+
+
 
   <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Markdown Previewer Project</h3>
@@ -88,12 +91,12 @@
         <a href="https://codepen.io/Shadams/full/pozwbwg" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
       </div>
     </div>    
+    </div> 
 
-  <div >
+
 
   <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Drum Machine Project</h3>
-
   <p>Technologies Used: <strong>HTML, CSS, React</strong></p>
     <div style="margin-top: 15px; text-align: center;">
       <center>
@@ -104,8 +107,9 @@
         <a href="https://codepen.io/Shadams/full/BaBmzxV" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
       </div>
     </div>    
-
   </div>
+
+  
 
   <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Random Quote Machine Project</h3>
@@ -119,8 +123,9 @@
         <a href="https://codepen.io/Shadams/full/bGbezxq" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
       </div>
     </div>    
-
   </div>
+
+
 
   <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Armstrong of Three Digit Checker Project</h3>
@@ -137,6 +142,7 @@
   </div>
 
 
+
   <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Technical Documentation Page Project</h3>
 
@@ -150,7 +156,6 @@
         <a href="https://codepen.io/Shadams/full/gKmJpp" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
       </div>
     </div>  
-    
   </div>
 
 
