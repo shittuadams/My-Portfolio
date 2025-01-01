@@ -173,7 +173,6 @@
   <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Airbnb Project</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/AirBnB-Project">here</a>.</p>
-    <p>Technologies Used: <strong>Tabluea</strong></p>
     <div style="margin-top: 15px; text-align: center;">
       <center>
         <img src="images/airbnb-dashboard.png" alt="Blog Project Screenshot" style="width: 90%; max-width: 500px; margin: 10px auto; border-radius: 5px;">
@@ -189,36 +188,60 @@
   <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Global Superstore Perfomance Dashboard Using Tableau</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/globalPerformance">here</a>.</p>
-    <center>
-      <img src="images/global-performance.png">  
-    </center>
+    <div style="margin-top: 15px; text-align: center;">
+      <center>
+        <img src="images/global-performance.png" alt="Blog Project Screenshot" style="width: 90%; max-width: 500px; margin: 10px auto; border-radius: 5px;">
+      </center>
+      <div style="display: flex; justify-content: space-between; margin-top: 20px; max-width: 500px; margin-left: auto; margin-right: auto;">
+        <a href="https://github.com/shittuadams/WallmartDataAnalysis/blob/main/Walmart-Retail-Data.xlsx" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #007BFF; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Data Set</a>
+        <a href="https://public.tableau.com/app/profile/shittu.adams/viz/GlobalPerformanceDashboard_16661126684710/GlobalPer" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
+      </div>
+    </div>  
   </div>
 
   
   <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Dashboard of Covid-19 Dataset Using Tableau</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/Covid-19-Dashboard">here</a>.</p>
-    <center>
-      <img src="images/covid-19-dashboard.png">  
-    </center>
+    <div style="margin-top: 15px; text-align: center;">
+      <center>
+        <img src="images/covid-19-dashboard.png" alt="Blog Project Screenshot" style="width: 90%; max-width: 500px; margin: 10px auto; border-radius: 5px;">
+      </center>
+      <div style="display: flex; justify-content: space-between; margin-top: 20px; max-width: 500px; margin-left: auto; margin-right: auto;">
+        <a href="https://github.com/shittuadams/Covid-19-Dashboard/blob/main/covid_19_data.xlsx" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #007BFF; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Data Set</a>
+        <a href="https://public.tableau.com/app/profile/adams.shittu/viz/DashboardProjectonCovid-19Dataset/Covid-19Dashboard" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
+      </div>
+    </div>  
   </div> 
   
   
   <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Data Visualization of Wallmart's Retail Dataset Using Tableau</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/WallmartDataAnalysis">here</a>.</p>
-    <center>
-      <img src="images/Walmart-Image.png">  
-    </center>
+    <div style="margin-top: 15px; text-align: center;">
+      <center>
+        <img src="images/Walmart-Image.png" alt="Blog Project Screenshot" style="width: 90%; max-width: 500px; margin: 10px auto; border-radius: 5px;">
+      </center>
+      <div style="display: flex; justify-content: space-between; margin-top: 20px; max-width: 500px; margin-left: auto; margin-right: auto;">
+        <a href="https://github.com/shittuadams/WallmartDataAnalysis/blob/main/Walmart-Retail-Data.xlsx" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #007BFF; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Data Set</a>
+        <a href="https://public.tableau.com/app/profile/adams.shittu/viz/WallmartRetailDataVisualization/Dashboard1" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
+      </div>
+    </div>  
   </div> 
   
   
   <div style="padding: 20px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);">
     <h3>Excel Data Analysis Project using the Bike Buyers Dataset</h3>
     <p><span>For more details on this project click </span><a target="_blank" href="https://github.com/shittuadams/excel-data-analysis-project-on-bike-buyers-dataset">here</a>.</p>
-    <center>
-      <img src="images/bike-buyers-dashboard-image.png">  
-    </center>
+    <div style="margin-top: 15px; text-align: center;">
+      <center>
+        <img src="images/bike-buyers-dashboard-image.png" alt="Blog Project Screenshot" style="width: 90%; max-width: 500px; margin: 10px auto; border-radius: 5px;">
+      </center>
+      <div style="display: flex; justify-content: space-between; margin-top: 20px; max-width: 500px; margin-left: auto; margin-right: auto;">
+        <a href="https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #007BFF; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Data Set</a>
+        <a href="https://github.com/shittuadams/excel-data-analysis-project-on-bike-buyers-dataset/blob/main/Bike%20Buyers%20Dataset%20Analysis.xlsx" target="_blank" style="padding: 10px 20px; text-decoration: none; background-color: #28A745; color: white; border-radius: 5px; font-weight: bold; text-align: center;">Live Demo</a>
+      </div>
+    </div>  
   </div > 
 
 
